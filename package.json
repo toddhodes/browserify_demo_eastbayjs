@@ -1,0 +1,15 @@
+{
+    "name" : "browserify_demo_eastbayjs",
+    "version" : "0.0.0",
+    "dependencies" : {
+        "ecstatic" : "~0.1.6",
+        "event-stream" : "~2.1.8",
+        "falafel" : "~0.1.0",
+        "graph-stream" : "~0.0.0",
+        "jquery-browserify" : "~1.7.2",
+        "JSONStream" : "~0.3.1",
+        "request" : "~2.9.203",
+        "shoe" : "~0.0.3",
+        "yarnify" : "~0.5.1"
+    }
+}

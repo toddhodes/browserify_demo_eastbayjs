@@ -1,0 +1,11 @@
+1. get on the wireless (AirBears):
+       username: guest-111068
+       password: odgaNkEDg6
+
+2. install node.js (http://nodejs.org)
+
+3. npm install -g browserify
+
+4. think of something to give a lightning talk about
+
+5. #nerdtracker on irc.freenode.net is rad
